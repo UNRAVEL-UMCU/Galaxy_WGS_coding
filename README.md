@@ -1,4 +1,4 @@
-![WGS coding analysis pipeline](https://github.com/UNRAVEL-UMCU/Galaxy_WGS_coding/assets/121402109/4a4adaf2-7dfa-470a-9dce-40969b938337)# Galaxy_WGS_coding 
+
 ## About
 This study aims to identify coding DNA variants influencing phenotype variability among patients carrying the PLN R14del, focusing on gene expression differences in symptomatic and asymptomatic individuals. 
 
